@@ -9,5 +9,10 @@ void main(){
 	string name;
 	printf("Enter employee name");
 	scanf("%s",&name);
+
+	int salary;
+	printf("Enter employee salary");
+	scanf("%d",&salary);
+
 	return 0;
 }
